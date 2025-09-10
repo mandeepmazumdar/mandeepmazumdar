@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Mandeep
+# <h1 align="center">Hi 👋, I'm Mandeep</h1>
 ### 👨‍💻 About Me
 - 🌱 I'm currently learning and exploring programming
 - 📫 How to reach me: mail- mazumdarmandeep07@gmail.com
