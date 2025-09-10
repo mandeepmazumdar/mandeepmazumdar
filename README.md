@@ -11,7 +11,6 @@
 [![](https://visitcount.itsvg.in/api?id=mandeepmazumdar&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 <!-- Snake Game Repo View -->
 
 <div align="center">
